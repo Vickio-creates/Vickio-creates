@@ -28,17 +28,8 @@ More coming soon — including my **Study Planner App**.
 
 
 ## 📊 GitHub Stats 
-<div style="display: flex; gap: 10px;">
-  <div>
-    <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </div>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vickio-creates&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickio-creates&layout=compact&theme=tokyonight)
 
 
 🌐 Connect With Me  
