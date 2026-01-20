@@ -12,6 +12,8 @@ I combine creativity, code, and personal growth to create simple, meaningful pro
 - **Tools:** Figma, Canva, Git, VS Code  
 - **Currently Learning:** Web development, UI/UX, problem‑solving, clean code
 
+  ## 🛠️ Skills & Tools (Learning and Improving) ![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 📌 Pinned Projects  
 - `algorithm_visualizer` — Sorting algorithms in C++  
 - `cafe-menu-html-css` — Simple HTML/CSS menu layout  
