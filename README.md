@@ -21,7 +21,7 @@ I combine creativity, code, and personal growth to create simple, meaningful pro
 
 More coming soon — including my **Study Planner App**.
 
-## 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vickio-creates&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickio-creates&layout=compact&theme=tokyonight)
 
 🌐 Connect With Me  
 - Instagram (Main): [@vickio_code_design](https://instagram.com/vickio_code_design)  
