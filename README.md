@@ -37,6 +37,7 @@ More coming soon — including my **Study Planner App**.
 
 
 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vickio-creates&show_icons=true&theme=tokyonight) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vickio-creates&layout=compact&theme=tokyonight)
 
