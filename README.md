@@ -1,3 +1,7 @@
+![Banner](Firefly_Gemini Flash_Design a sleek, futuristic GitHub banner in a 1200x300 aspect ratio.  _Use a dark mod 357270)
+
+
+
 Hi, I'm Estelle 👋  
 **Designer by Day, Coder by Night** 💻✨  
 Welcome to my creative–tech space.
