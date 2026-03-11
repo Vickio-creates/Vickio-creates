@@ -16,7 +16,7 @@ I combine creativity, code, and personal growth to create simple, meaningful pro
 
 
 🛠️ Skills & Tools (Learning and Improving)  
-- **Languages:** HTML, CSS, JavaScript, PHP, C++  
+- **Languages:** HTML, CSS, JavaScript, PHP, C++, Python 
 - **Design:** UI/UX basics, graphic design, branding  
 - **Tools:** Figma, Canva, Git, VS Code  
 - **Currently Learning:** Web development, UI/UX, problem‑solving, clean code
